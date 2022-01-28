@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
